@@ -1,0 +1,16 @@
+D:\C# dersleri\Calculators\Calculators\bin\Debug\net8.0-windows\Calculators.exe
+D:\C# dersleri\Calculators\Calculators\bin\Debug\net8.0-windows\Calculators.deps.json
+D:\C# dersleri\Calculators\Calculators\bin\Debug\net8.0-windows\Calculators.runtimeconfig.json
+D:\C# dersleri\Calculators\Calculators\bin\Debug\net8.0-windows\Calculators.dll
+D:\C# dersleri\Calculators\Calculators\bin\Debug\net8.0-windows\Calculators.pdb
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.Form1.resources
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.csproj.GenerateResource.cache
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.AssemblyInfoInputs.cache
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.AssemblyInfo.cs
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.dll
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\refint\Calculators.dll
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.pdb
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\Calculators.genruntimeconfig.cache
+D:\C# dersleri\Calculators\Calculators\obj\Debug\net8.0-windows\ref\Calculators.dll
